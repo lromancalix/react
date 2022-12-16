@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.saludo {
+  color: whitesmboke;
+}
+
+
+.container {
+  border: 1px lightgray solid;
+  padding: 10px 40px;
+  margin: 10px 30px;
+  border-radius: 3px;
+  box-shadow: 1px 2px 3px grey;
+}
